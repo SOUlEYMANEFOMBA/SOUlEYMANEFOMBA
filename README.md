@@ -1,0 +1,7 @@
+- 👋 Hey, I’m @SOUlEYMANEFOMBA — a data whisperer & storyteller, passionate about both data analysis and data engineering.  
+- 👀 I love turning raw data into clear, actionable insights — whether through dashboards or Big Data pipelines.  
+- 🌱 Currently leveling up my skills in Kafka, Spark, Airflow, dbt, BigQuery... while sharpening my expertise in statistical analysis and data visualization.  
+- 💞️ Open to collaborating on projects where data truly reveals its potential, be it fine-grained analyses or robust data architectures.  
+- 📫 Reach me at souleymanefmb@gmail.com or on LinkedIn: linkedin.com/in/souleymanefomba  
+- 😄 Pronouns: He/Him (but always open to testing an AI-friendly nickname 🤖)  
+- ⚡ Fun fact: I built a dashboard that wowed the business teams — proof that behind every number lies a great story waiting to be told.
